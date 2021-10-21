@@ -1,0 +1,11 @@
+[Process_IM]
+wscript.exe
+[File_NAME]
+acojrnbgyk.vbs
+autorun.inf
+.lnk
+Thumb.db
+[Feature_STR]
+WScript.exe //e:VBScript
+[all]
+[astro]
